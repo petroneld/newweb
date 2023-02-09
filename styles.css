@@ -127,7 +127,7 @@ text-decoration: underline;
 }
 
 .btn {
-    background: linear-gradient (to bottom, #11cdd4, #11cdd6);
+    background: linear-gradient(to bottom, #11cdd4, #11cdd6);
     border-radius: 8px;
     font-family: 'Montserrat', sans-serif;
     color: #ffffff;
