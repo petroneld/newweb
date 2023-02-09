@@ -138,6 +138,6 @@ text-decoration: underline;
   }
   
   .btn:hover {
-    background: linear-gradient(to bottom, #30e3cb, #2bc4ad);
+    background: linear-gradient(to bottom, #30e3cb, #2bc4ad); /*space removed due to browser error*/
     text-decoration: none;
   }
